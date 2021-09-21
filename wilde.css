@@ -3,15 +3,15 @@
     color: slateblue;
 }
 
-div.a {
+.a {
    text-align: center;
    }
-div.b{
+.b{
     
     text-align: left;
            }
 
-       div.c 
+       .c 
        {
         text-align: right;
            } 
