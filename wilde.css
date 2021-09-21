@@ -32,6 +32,10 @@ div.b{
     font-family: 'Times New Roman', Times, serif;
     font-size: small;
     color: black;
+   
+}
+.name:hover{
+    text-shadow: 2px 2px 5px red;
 }
 .stage-direction{
     font-family: Arial, Helvetica, sans-serif;
