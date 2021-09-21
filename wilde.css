@@ -116,6 +116,7 @@ table {
         text-align: center;
         padding: 14px 16px;
         text-decoration: none;
+        width: auto;
       }
       
       li a:hover:not(.active) {
