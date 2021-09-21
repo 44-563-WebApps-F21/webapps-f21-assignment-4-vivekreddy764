@@ -64,7 +64,7 @@ div.b{
 
 table {
     border-collapse: collapse;
-    width: 100%;
+    width: auto;
   }
   
   th, td {
