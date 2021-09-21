@@ -94,7 +94,7 @@ table {
 
     ul {
         list-style-type: none;
-        width: auto;
+        width: fit-content;
         overflow: hidden;
         background-color: #dddddd;
       }
@@ -106,4 +106,5 @@ table {
       li a {
         display: block;
         padding: 8px;
+        width: fit-content;
       }
